@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<apps>
+    <app name="Schedular" ear="Schedular.ear" xml="Schedular.xml"/>
+    <app name="MizuhoDemo" ear="MizuhoDemo.ear" xml="MizuhoDemo.xml"/>
+    <app name="HTTPDemo" ear="HTTPDemo.ear" xml="HTTPDemo.xml"/>
+</apps>
